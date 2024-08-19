@@ -696,7 +696,7 @@ label{
         width: 6%;
     }
     .mtn{
-        margin-top: 120%;
+        margin-top: 100%;
         
     }
     .mtn h1{
@@ -711,6 +711,7 @@ label{
     .v img{
         width: 200px;
         height: 300px;
+        margin-top: -56%;
     }
     .v{
         left: 30%;
