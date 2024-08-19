@@ -389,7 +389,7 @@ header{
 label{
     z-index: 2;
     position: relative;
-    width: 1010px;
+    width: 643px;
 
 }
 .social{
@@ -472,7 +472,7 @@ label{
     position: absolute;
     display: inline-block;
     height: 6.5px;
-    width: 3%;
+    width: 5%;
     background-color: #0038a1;
     border-radius: 8px;
     margin-right: 20px;
@@ -482,7 +482,7 @@ label{
     position: absolute;
     display: inline-block;
     height: 6.5px;
-    width: 3%;
+    width: 5%;
     filter: blur(1px);
     background-color: #578fff;
     border-radius: 8px;
@@ -493,7 +493,7 @@ label{
     position: absolute;
     display: inline-block;
     height: 6.5px;
-    width: 3%;
+    width: 5%;
     background-color: #0038a1;
     border-radius: 8px;
     margin-right: 20px;
