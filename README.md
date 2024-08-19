@@ -1,5 +1,6 @@
 # My-Web
-   <div><a href="https://sefiideas.github.io/">  MyWeb  </a></div>
+<html>
+      <div><a href="https://sefiideas.github.io/">  MyWeb  </a></div>
   <style>
         div{
             display: inline-block;
@@ -18,3 +19,4 @@
             
         }
   </style>
+</html>
