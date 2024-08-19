@@ -390,7 +390,7 @@ header{
 label{
     z-index: 2;
     position: relative;
-    width: 100px;
+    width: 60px;
 
 }
 .social{
@@ -660,7 +660,7 @@ label{
         left: -86%;
     }
     label{
-        width: 100px;
+        width: 60px;
         position: relative;
         z-index: 1;
     }
@@ -688,13 +688,13 @@ label{
     }
     
     .kh1{
-        width: 30%;
+        width: 60%;
     }
     .kh2{
-        width: 30%;
+        width: 60%;
     }
     .kh3{
-        width: 30%;
+        width: 60%;
     }
     .mtn{
         margin-top: 100%;
