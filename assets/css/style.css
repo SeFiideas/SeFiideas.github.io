@@ -144,6 +144,7 @@ header{
 .particles-js-canvas-el{
     position: absolute;
     margin-top: -6%;
+    right: 0%;
 }
 .mtn{
     margin-top: 27%;
