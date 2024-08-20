@@ -368,7 +368,7 @@ header{
     transform: skewY(2.5deg);
     z-index: 2;
     text-align: center;
-    margin-top: 40%;
+    margin-top: 20%;
     
 }
 .social-icon{
@@ -644,6 +644,9 @@ label{
     }
     .navbox a{
         font-size: 10px;
+    }
+    .social{
+        margin-top: 40%;
     }
     .navbox label{
         position: a;
