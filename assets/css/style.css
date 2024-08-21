@@ -671,7 +671,7 @@ label{
         left: -86%;
     }
     label{
-        width: 500px;
+        width: 80px;
         position: relative;
         z-index: 1;
     }
@@ -697,13 +697,13 @@ label{
     }
     
     .kh1{
-        width: 36%;
+        width: 30%;
     }
     .kh2{
-        width: 36%;
+        width: 30%;
     }
     .kh3{
-        width: 36%;
+        width: 30%;
     }
     .mtn{
         margin-top: 35%;
