@@ -654,7 +654,7 @@ label{
         position: a;
         background: aqua;
         z-index: 10;
-        width: 180px;
+        width: 80px;
         left: 0%;
         top: 3%;
     }
@@ -697,13 +697,13 @@ label{
     }
     
     .kh1{
-        width: 6%;
+        width: 36%;
     }
     .kh2{
-        width: 6%;
+        width: 36%;
     }
     .kh3{
-        width: 6%;
+        width: 36%;
     }
     .mtn{
         margin-top: 35%;
