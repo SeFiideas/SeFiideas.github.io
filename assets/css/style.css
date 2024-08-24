@@ -505,7 +505,7 @@ label{
     display: inline-block;
     position: absolute;
     height: 6px;
-    width: 8%;
+    width: 13%;
     background-color: #0038a1;
     border-radius: 9px;
     transform: skewY(35deg);
@@ -514,7 +514,7 @@ label{
     display: inline-block;
     position: absolute;
     height: 6px;
-    width: 8%;
+    width: 13%;
     background-color: #0038a1;
     border-radius: 9px;
     transform: skewY(-35deg);
@@ -667,8 +667,8 @@ label{
     .flesh{
         width: 135%;
         position: absolute;
-        margin-top: -134%;
-        left: -86%;
+        margin-top: -289%;
+        left: -162%;
     }
     label{
         width: 80px;
@@ -697,13 +697,13 @@ label{
     }
     
     .kh1{
-        width: 30%;
+        width: 35%;
     }
     .kh2{
-        width: 30%;
+        width: 35%;
     }
     .kh3{
-        width: 30%;
+        width: 35%;
     }
     .mtn{
         margin-top: 35%;
