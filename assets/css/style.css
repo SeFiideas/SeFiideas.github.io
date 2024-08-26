@@ -623,10 +623,10 @@ label{
 }
 @media (max-width:1052px){
     .fast-go h1{
-        font-size: 30px;
+        font-size: 27px;
     }
     .fast-go a{
-        font-size: 20px;
+        font-size: 18px;
     }
     .about-me{
         font-size: 20px;
@@ -680,7 +680,7 @@ label{
     }
     .about-me p{
         font-size: 20px;
-        width: 190px;
+        width: 150px;
     }
     .particles-js-canvas-el{
         position: relative;
