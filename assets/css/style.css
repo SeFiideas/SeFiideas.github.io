@@ -684,6 +684,7 @@ label{
     }
     .particles-js-canvas-el{
         position: relative;
+        margin-top: -6%;
     }
     .fast-go h1{
         position: absolute;
