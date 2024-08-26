@@ -446,6 +446,10 @@ label{
     .cuntainer .kar1,.kar2,.kar3{
         flex-wrap: wrap;
     }  
+    .particles-js-canvas-el{
+        position: absolute;
+        right: 0%;
+    }
 }
 @keyframes anim-mtn {
     0%{
